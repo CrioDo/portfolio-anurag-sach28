@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-anurag-sach28/static/css/main.5db1380d.chunk.css",
+    "main.js": "/portfolio-anurag-sach28/static/js/main.24562004.chunk.js",
+    "main.js.map": "/portfolio-anurag-sach28/static/js/main.24562004.chunk.js.map",
+    "runtime-main.js": "/portfolio-anurag-sach28/static/js/runtime-main.e06bd08c.js",
+    "runtime-main.js.map": "/portfolio-anurag-sach28/static/js/runtime-main.e06bd08c.js.map",
+    "static/css/2.57ddf7ad.chunk.css": "/portfolio-anurag-sach28/static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.f027d4cb.chunk.js": "/portfolio-anurag-sach28/static/js/2.f027d4cb.chunk.js",
+    "static/js/2.f027d4cb.chunk.js.map": "/portfolio-anurag-sach28/static/js/2.f027d4cb.chunk.js.map",
+    "index.html": "/portfolio-anurag-sach28/index.html",
+    "precache-manifest.56690f1267e16868c6eb9bbf33449c72.js": "/portfolio-anurag-sach28/precache-manifest.56690f1267e16868c6eb9bbf33449c72.js",
+    "service-worker.js": "/portfolio-anurag-sach28/service-worker.js",
+    "static/css/2.57ddf7ad.chunk.css.map": "/portfolio-anurag-sach28/static/css/2.57ddf7ad.chunk.css.map",
+    "static/css/main.5db1380d.chunk.css.map": "/portfolio-anurag-sach28/static/css/main.5db1380d.chunk.css.map",
+    "static/js/2.f027d4cb.chunk.js.LICENSE.txt": "/portfolio-anurag-sach28/static/js/2.f027d4cb.chunk.js.LICENSE.txt",
+    "static/media/crio-logo-white.svg": "/portfolio-anurag-sach28/static/media/crio-logo-white.c9536e04.svg",
+    "static/media/crio-logo.svg": "/portfolio-anurag-sach28/static/media/crio-logo.63be71d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e06bd08c.js",
+    "static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.f027d4cb.chunk.js",
+    "static/css/main.5db1380d.chunk.css",
+    "static/js/main.24562004.chunk.js"
+  ]
+}
